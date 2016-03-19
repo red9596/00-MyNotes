@@ -1,8 +1,7 @@
 [参考地址](http://blog.csdn.net/weisubao/article/details/39498955)
 
-# AppIcon尺寸
+# AppIcon图标尺寸
 
-标签（空格分隔）： 未分类
 
 ---
 
